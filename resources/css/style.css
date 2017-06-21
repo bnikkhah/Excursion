@@ -14,3 +14,18 @@ a{
 	color:Aqua;
 	font-size:16px;
 }
+
+h2{
+	font-size:42px;
+	font-weight:300;
+}
+
+p{
+	font-size:21px;
+	color:gray;
+}
+
+footer{
+	text-align:right;
+	color:gray;
+}
